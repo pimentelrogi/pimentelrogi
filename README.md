@@ -5,5 +5,4 @@
 - 📚 Querendo aprender mais sobre: JavaScript, React, TypeScript,PHP 
 - 📫 Contate-me no email: igorpimentell@outlook.com
 - 🏢 Trabalho de 8 ás 17 como estoquista em uma empresa de perfumaria e cosmetico. 
-- 📢 Tenho me capacitado desde 02/2021 para entrar no ramo de T.I e me sinto preparado para tudo.
-
+- 📢 Tenho me capacitado desde 02/2021
