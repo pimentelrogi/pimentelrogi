@@ -1,6 +1,6 @@
-                                             Olá! Eu sou o Igor Pimentel
+                                                            Olá! Eu sou o Igor Pimentel
 
-- 📝Tenho diplomas em : HTML5(Fundação Bradesco) CSS3(Fundação Bradesco) Lógica de Programação (SENAI) - Desenvolvedor Web (Udemy)
+- 📝 Tenho diplomas em : HTML5(Fundação Bradesco) CSS3(Fundação Bradesco) Lógica de Programação (SENAI) - Desenvolvedor Web (Udemy)
 - 🌱 Estudando VueJs com enfâse em me tornar FrontEnd Engineer
 - 📚 Querendo aprender mais sobre: JavaScript, React
 
