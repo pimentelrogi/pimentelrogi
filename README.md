@@ -1,6 +1,6 @@
                                              Olá! Eu sou o Igor Pimentel
 
-- 📝Tenho diplomas em : HTML(Fundação Bradesco) CSS(Fundação Bradesco) Lógica de Programação (SENAI) - Desenvolvedor Web (Udemy)
+- 📝Tenho diplomas em : HTML5(Fundação Bradesco) CSS3(Fundação Bradesco) Lógica de Programação (SENAI) - Desenvolvedor Web (Udemy)
 - 🌱 Estudando VueJs com enfâse em me tornar FrontEnd Engineer
 - 📚 Querendo aprender mais sobre: JavaScript, React
 
@@ -16,6 +16,6 @@
    
    <h2>Faça contato comigo atráves : </h2>
   <div> 
-    <a href = "mailto:igorpimentell@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+    <a href = "mailto:igorpimentell@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/igor-pimentel-sardinha-83727412a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
